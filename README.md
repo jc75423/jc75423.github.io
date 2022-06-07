@@ -1,3 +1,3 @@
-# jc75423.github.io
+# WEB110 Justin Chang
 
-Apples, Bananas, Citrus
+http://jc75423.github.io
